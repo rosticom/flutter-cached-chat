@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "528347137153",
+    "project_id": "rosticom-dart-chat",
+    "storage_bucket": "rosticom-dart-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528347137153:android:ffe32b20eac67e51687980",
+        "android_client_info": {
+          "package_name": "com.rosticom.dartchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528347137153-4mrefhp3lrpjd0a7c21sn1gesmu8irbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTbeSDhES8JQF9o_nFhsewsdjyh2N_D1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528347137153-4mrefhp3lrpjd0a7c21sn1gesmu8irbj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
