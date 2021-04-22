@@ -20,11 +20,12 @@ thanks to my test job and previous author
 - using [Get-it](https://pub.dev/packages/get_it) as a Service Locator for dependency injection.
 - added media messages, video, images, player.
 - upload media to firestore account.
-- cash all media and messages by HIVE.
-- image network cache manager (cached_network_image).
+- cash all media and messages by [Hive](https://pub.dev/packages/hive).
+- image network cache manager [cached_network_image](https://pub.dev/packages/cached_network_image).
 - cache video player (cached_video_player).
 - now works without network connection.
 
 
-please use if you can give a star for this repository (done it much better for two weeks!)
-In this project i used starting point for a Flutter application by previous author, many thank's to him, because it's work's.
+In this project i used starting point for a Flutter application by previous author, many thanks to him, because it's work's.
+After the publication repository, a few more days of work I have a new clear version with service distribution and structure according to best practice, bug fixes and a perfectly working chat like telegram. please star and send a message to me, so I can send the latest version to you. Many thanks. 
+https://qanb.xyz
