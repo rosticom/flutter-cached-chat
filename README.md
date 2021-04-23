@@ -27,5 +27,5 @@ thanks to my test job and previous author
 
 
 In this project i used starting point for a Flutter application by previous author, many thanks to him, because it's work's.
-After the publication repository, a few more days of work I have a new clear version with service distribution and structure according to best practice, bug fixes and a perfectly working chat like telegram. please star and send a message to me, so I can send the latest version to you. Many thanks. 
-https://qanb.xyz
+After the publication repository, a few more days of work I have a new clear version with service distribution and structure according to best practice, bug fixes and a perfectly working chat like telegram. please star and send a message to me, so I can send the latest version to you. Many thanks 
+(https://qanb.xyz).
