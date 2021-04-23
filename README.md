@@ -21,7 +21,7 @@ thanks to my test job and previous author
 - added media messages, video, images, player.
 - upload media to firestore account.
 - cash all media and messages by [Hive](https://pub.dev/packages/hive).
-- image network cache manager [cached_network_image](https://pub.dev/packages/cached_network_image).
+- image network cache manager [cached_network_image](https://pub.dev/packages/cached_network_image) with dependencies (flutter, flutter_cache_manager, octo_image)
 - cache video player (cached_video_player).
 - now works without network connection.
 
